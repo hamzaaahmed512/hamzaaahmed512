@@ -1,5 +1,5 @@
 # 💫 About Me:
-* 🔭 **I’m currently working on** scalable full-stack applications, database-driven tracking systems, and data science projects.<br>* 👯 **I’m looking to collaborate on** open-source software, full-stack web platforms, and data analytics tools.<br>* 🤝 **I’m looking for help with** mastering advanced cloud deployments and optimized backend architecture.<br>* 🌱 **I’m currently learning** advanced Data Science concepts, PostgreSQL/Supabase optimizations, and modern API design.<br>* 💬 **Ask me about** Data Science, C#, Python, MS SQL Server, or OOP principles.<br>* ⚡ **Fun fact** I can debug SQL queries faster than I can decide what to order for lunch!
+* 🔭 **I’m currently working on** scalable full-stack applications, database-driven tracking systems, and data science projects.<br> 👯 **I’m looking to collaborate on** open-source software, full-stack web platforms, and data analytics tools.<br> 🤝 **I’m looking for help with** mastering advanced cloud deployments and optimized backend architecture.<br> 🌱 **I’m currently learning** advanced Data Science concepts, PostgreSQL/Supabase optimizations, and modern API design.<br> 💬 **Ask me about** Data Science, C#, Python, MS SQL Server, or OOP principles.<br> ⚡ **Fun fact** I can debug SQL queries faster than I can decide what to order for lunch!
 
 
 ## 🌐 Socials:
