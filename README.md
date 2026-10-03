@@ -7,7 +7,7 @@ Data Science student and developer focused on building practical software, data-
 - 🎓 BS Data Science student at UET Lahore
 - 💻 Interested in full-stack development, databases, and software engineering
 - 📊 Exploring Data Science, backend development, and modern API design
-- 🛠️ Building real-world projects using C#, Python, JavaScript, PostgreSQL, and Supabase
+- 🛠️ Building real-world applications using C#, Python, JavaScript, PostgreSQL, and Supabase
 - 🤝 Open to collaborating on software development and data-related projects
 
 ## Featured Projects
@@ -16,6 +16,21 @@ Data Science student and developer focused on building practical software, data-
 A multi-tenant school management platform designed to simplify academic and administrative operations for schools.
 
 `Full-Stack Development` `PostgreSQL` `Supabase` `SaaS`
+
+### ⚡ Volt Relay
+A peer-to-peer EV power-sharing platform that helps EV owners discover and access available charging locations through a connected platform.
+
+`Python` `Next.js` `Supabase` `APIs` `Networking`
+
+### 🛡️ Pakwatan Security ERP
+An ERP system for managing security-company operations, including guards, attendance, clients, expenses, weapons, and financial records.
+
+`Full-Stack Development` `Database Management` `ERP`
+
+### 🏥 Clinic Management System
+A software solution designed to organize clinic operations and manage patient and administrative records efficiently.
+
+`C#` `.NET` `SQL Server` `OOP`
 
 ## Tech Stack
 
@@ -47,12 +62,6 @@ A multi-tenant school management platform designed to simplify academic and admi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## GitHub Stats
-
-![Hamza's GitHub Stats](https://github-readme-stats.shion.dev/api?username=hamzaaahmed512&theme=github_dark&hide_border=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=hamzaaahmed512&theme=github_dark&hide_border=true&layout=compact)
 
 ## Connect With Me
 
